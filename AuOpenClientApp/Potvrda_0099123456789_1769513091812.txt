@@ -1,0 +1,12 @@
+==========================================
+   AUSTRALIAN OPEN - POTVRDA PRIJAVE
+==========================================
+Ime i prezime: Milos Milosevic
+JMBG:          0099123456789
+Pozicija:      Redar
+Smena:         Jutarnja
+Datum rada:    2026-02-05
+Datum prijave: 2026-01-27
+------------------------------------------
+Status: USPESNO SACUVANO U BAZI
+==========================================

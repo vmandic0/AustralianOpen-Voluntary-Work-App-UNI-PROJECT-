@@ -1,0 +1,12 @@
+==========================================
+   AUSTRALIAN OPEN - POTVRDA PRIJAVE
+==========================================
+Ime i prezime: Primer1 Primer1
+JMBG:          1234567890123
+Pozicija:      Redar
+Smena:         Popodnevna
+Datum rada:    2026-02-04
+Datum prijave: 2026-02-03
+------------------------------------------
+Status: USPESNO SACUVANO U BAZI
+==========================================

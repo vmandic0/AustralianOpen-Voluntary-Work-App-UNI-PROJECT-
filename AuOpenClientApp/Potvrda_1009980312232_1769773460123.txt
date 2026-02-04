@@ -1,0 +1,12 @@
+==========================================
+   AUSTRALIAN OPEN - POTVRDA PRIJAVE
+==========================================
+Ime i prezime: Mika Mikic
+JMBG:          1009980312232
+Pozicija:      Redar
+Smena:         Popodnevna
+Datum rada:    2026-02-04
+Datum prijave: 2026-01-30
+------------------------------------------
+Status: USPESNO SACUVANO U BAZI
+==========================================
